@@ -1,0 +1,7 @@
+{
+  "repo": "auto-test-init",
+  "owner": "hipstersmoothie",
+  "name": "Andrew Lisowski",
+  "email": "lisowski54@gmail.com",
+  "plugins": ['git-tag']
+}
